@@ -23,7 +23,7 @@ email: ryan.m.diep@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   zzzz
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kuraian.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kuraianlol
 github_username:  kuraian
 
